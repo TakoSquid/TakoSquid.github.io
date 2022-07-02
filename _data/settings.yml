@@ -10,6 +10,7 @@ menu:
 
 projects:
 - {name: 'Blah Thingy',   url: 'proj-blah'}
+- {name: 'Games',         url: 'proj-games'}
 
 #-------------------------------
 # Contact Section
