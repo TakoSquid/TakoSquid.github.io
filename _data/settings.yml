@@ -3,19 +3,13 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Blah Thingy',   url: 'proj-blah'}
 
 #-------------------------------
 # Contact Section
@@ -24,7 +18,6 @@ social:
 - {icon: 'twitter',   link: 'https://twitter.com/sublimepoulpe'}
 - {icon: 'instagram', link: 'https://instagram.com/sublimepoulpe'}
 - {icon: 'github',    link: 'https://github.com/takosquid'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
 - {icon: 'envelope',  link: 'mailto:mailto:lepoulpequisentbon@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
