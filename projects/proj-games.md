@@ -20,7 +20,7 @@ I've modeled, rigged and animated this character with Blender and did the textur
 *The character animations are pretty rough, it was my first experience animating in 3D. But I've learn a lot !*
 
 {% include youtubePlayer.html id="ZS1qpMIHCPw" height="700" %}
-*It was my first time texture painting aswell !*
+*It was my first time texture painting in Blender aswell !*
 
 ---
 
@@ -41,6 +41,8 @@ I had to write a little bit of assembly code to modify the game, like disabling 
 
 A Unity game done during ENIB's game jam created around the rocket jumping mechanics !
 
+{% include youtubePlayer.html id="MsORDpliISY" %}
+
 A fun little problem encoutered : firing a rocket from the weapon and still be able to aim towards a target in the middle of the camera view :
 
 {% include image.html image="projects/proj-games/raycast.png" %}
@@ -51,3 +53,7 @@ A fun little problem encoutered : firing a rocket from the weapon and still be a
 ---
 
 #### Tako's Project
+
+A 2D Unity game to experiment with the Universal Render Pipeline, lights it provides and pixel perfect rendering with Cinemachine.
+
+{% include youtubePlayer.html id="YJPhRjLT6JI" %}

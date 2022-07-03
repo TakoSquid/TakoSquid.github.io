@@ -11,6 +11,7 @@ menu:
 projects:
 - {name: 'Blah Thingy',   url: 'proj-blah'}
 - {name: 'Games',         url: 'proj-games'}
+- {name: 'Shaders',       url: 'proj-shaders'}
 
 #-------------------------------
 # Contact Section

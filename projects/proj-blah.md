@@ -30,7 +30,7 @@ Note that we can acces Entity's and Component's public fields and functions.
 
 ##### Few of the already existing Components...
 - Animator : acces and play animations from an [Aseprite](https://www.aseprite.org/) file.
-- Collider : add collision and collision mask to an Entity. Currently basic shapes and slopes is available.
+- Collider : add collision and collision mask to an Entity. Currently basic shapes and slopes are available.
 - Signal_Box : observer pattern implementation. Add a reaction upon signal reception from other signal boxes.
 - And more !
 
@@ -62,7 +62,8 @@ Entity position can also be set as so as Signal Boxes links through JSON files.
 *Ogmo map editor : Multiple layers, blocks and entities (the wide red rectangle is a moving platform with its path)*
 
 ##### Debugging tool
-You can tinker with Components values while playing with this tool ! Created with [Dear ImGui](https://github.com/ocornut/imgui).
+You can select an object from the list or in the game window and tinker with its Components values ! 
+Created with [Dear ImGui](https://github.com/ocornut/imgui).
 
 {% include image.html image="projects/proj-blah/blah_ui.jpg" %}
 *Every Components overriding the debug method can display info in the game window and/or in the right column.*
