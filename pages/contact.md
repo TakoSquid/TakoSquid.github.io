@@ -6,6 +6,6 @@ permalink: /contact
 
 # Contact
 
-[email](mailto:lepoulpequisentbon@gmail.com)
+You can send me an email : [lepoulpequisentbon@gmail.com](mailto:lepoulpequisentbon@gmail.com)
 
-[twitter](https://twitter.com/sublimepoulpe)
+Or send me a private message on [Twitter](https://twitter.com/SublimePoulpe) or [Instagram](https://www.instagram.com/sublimepoulpe/).
