@@ -10,7 +10,7 @@ You can acces the repo [here !](https://github.com/TakoSquid/blah-thingy)
 
 #### Quick demo : Debugging tool
 
-{% include youtubePlayer.html id="QtSivZ5ahtI" %}
+{% include youtubePlayer.html id="QtSivZ5ahtI" width=700 height=535 %}
 
 ---
 
