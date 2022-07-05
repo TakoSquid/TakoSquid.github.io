@@ -65,9 +65,9 @@ One of my favorite aspect of game making is playing around with shaders ! Here's
 
 - The object height : the closest to the ground, weaker is the wave effect.
 - Wave : The offset direction strength follows the wave.
-- Variation : the last multiplicatoin modulates offset amplitude
+- Variation : the last multiplication modulates offset amplitude
 
-*Finaly we got our final 2D offset, we split it on the right axis (X and Z), add it to the world space vertex position. Then we add the player presence effect. One last effect : the "ClosestDiv" node recreated PS1 vertex snapping (Absolutely not accurately, but the effect looks great anyway), allowing vertices position to be on a settable 3D grid. To end this tentacle monster, we transform world position to object position.*
+*Finaly we got our final 2D offset, we split it on the right axis (X and Z), add it to the world space vertex position. Then we add the player presence effect. One last effect : the "ClosestDiv" node recreated PS1 vertex snapping (Absolutely not accurately, but the effect looks great anyway), allowing vertices position to be on a settable 3D grid. To end this tentacle monster, we transform world space position to object space position.*
 
 
 ---
