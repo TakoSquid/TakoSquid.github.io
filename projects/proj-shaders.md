@@ -29,7 +29,7 @@ One of my favorite aspect of game making is playing around with shaders ! Here's
 *Each seaweed has a random color, oscillation frequence, amplitude and direction based on its position.*
 
 {% include image.html image="projects/proj-shaders/seaweed.png" %}
-*This graph is a big convoluted, let's break it down*
+*This graph is big and convoluted, let's break it down*
 
 ##### Random pool
 {% include image.html image="projects/proj-shaders/seaweed_engine.png" %}
@@ -42,7 +42,7 @@ One of my favorite aspect of game making is playing around with shaders ! Here's
 
 ##### Fragment shader
 {% include image.html image="projects/proj-shaders/seaweed_fragment.png" %}
-*For the color, the Vector 3 input must be interpreted as a Hue/Saturation/Value color, with Hue from a random value. The shadown color is created from this base color by increasing saturation and reducing value (It usually gives good results). We simply interpolate between the main color and the shadow color according to the "light value" the fragment has.*
+*For the color, the Vector 3 input must be interpreted as a Hue/Saturation/Value color, with Hue from a random value. The shadow color is created from this base color by increasing saturation and reducing value (It usually gives good results). We simply interpolate between the main color and the shadow color according to the "light value" the fragment has.*
 
 *To avoid weird ground intersection and to add a "ghostly" effect, the opacity varies based on height.*
 
