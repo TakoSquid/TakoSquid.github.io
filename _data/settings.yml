@@ -9,10 +9,10 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Blah Thingy',                       url: 'proj-blah'}
-- {name: 'Games',                             url: 'proj-games'}
-- {name: 'Shaders',                           url: 'proj-shaders'}
-- {name: 'Squid & Super Karoiju Starfighter', url: 'proj-3DS'}
+- {name: '🔧 Blah Thingy',                       url: 'proj-blah'}
+- {name: '🎮 Games',                             url: 'proj-games'}
+- {name: '✨ Shaders',                           url: 'proj-shaders'}
+- {name: '🐙 Squid & 🧙‍♂️ Super Karoiju Starfighter', url: 'proj-3DS'}
 
 #-------------------------------
 # Contact Section
