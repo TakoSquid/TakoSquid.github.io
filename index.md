@@ -5,9 +5,9 @@ title: Home
 
 # Hello ! 🐙
 
-📚 I'm a student in my Master’s Degree in Engineering final year at the [Brest National School Of Engineering](https://www.enib.fr/en/). I'm currently looking for a 6 month internship !
+👨‍🎨 I'm working as a Technical Artist @ Hangar13 !
 
-🎯 My current long term-goal is to become a Technical Artist.
+👀 I'm currently looking for opportunities and working on my portfolio.
 
 ✨ Checkout my [projects]({{ site.github.url }}/projects) ! And feel free to [contact]({{ site.github.url }}/contact) me.
 
